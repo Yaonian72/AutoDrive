@@ -1,0 +1,8 @@
+prefix=/home/yzy/catkin_ws/install
+
+Name: kitti
+Description: Description of kitti
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

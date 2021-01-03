@@ -1,0 +1,12 @@
+[submodule "mmdetection"]
+	path = mmdetection
+	url = https://github.com/zye1996/mmdetection.git
+[submodule "mmdetection3d"]
+	path = mmdetection3d
+	url = https://github.com/zye1996/mmdetection3d.git
+[submodule "tools/vod-converter"]
+	path = tools/vod-converter
+	url = https://github.com/umautobots/vod-converter.git
+[submodule "3DSSD-pytorch"]
+	path = 3DSSD-pytorch
+	url = https://github.com/zye1996/3DSSD-pytorch.git
